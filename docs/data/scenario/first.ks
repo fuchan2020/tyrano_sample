@@ -24,7 +24,7 @@
 
 [cm]
 
-[bg storage=docs/data/bgimage/images (5).jpg time=500]
+[bg storage=images (5).jpg time=500]
 
 私は枕がないと寝られないのだ！！枕は...[l][r]
 
@@ -36,7 +36,7 @@
 
 [cm]
 
-[bg storage=docs/data/bgimage/images (4).jpg time=500]
+[bg storage=images (4).jpg time=500]
 
 寝心地はいまいちだ[l][r]
 すぐに起きてしまいそうだ...[l][r]
@@ -51,7 +51,7 @@
 
 [cm]
 
-[bg storage=docs/data/bgimage/images (3).jpg time=500]
+[bg storage=images (3).jpg time=500]
 
 寝心地抜群だ[l][r]
 これなら１０時間は寝ることができる[r]
@@ -62,7 +62,7 @@
 
 *tag_run
 
-[bg storage=docs/data/bgimage/images (2).jpg time=500]
+[bg storage=images (2).jpg time=500]
 
 [cm]
 メロスは黒い風のように走った。[l][r]
@@ -77,7 +77,7 @@
 
 [cm]
 
-[bg storage=docs/data/bgimage/images (1).jpg time=500]
+[bg storage=images (1).jpg time=500]
 
 メロスにやる気がみなぎってきた。 [l][r]
 メロスは音速を超えた速度で走り、まだ日の明るいうちに刑場にたどり着いた[r]
@@ -92,7 +92,7 @@
 
 [cm]
 
-[bg storage=docs/data/bgimage/images.jpg time=500]
+[bg storage=images.jpg time=500]
 
  メロスはだんだんと力尽きていった。[l][r]
 しかし諦めることはできない...[l][r]
